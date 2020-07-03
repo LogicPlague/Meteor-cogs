@@ -1,0 +1,14 @@
+{
+    "author": ["James M. Bennett"],
+    "description": "Adds and audit logging system to the bot. Meaning it will log when poeple join/leave servers/channels, or even delete a message. It will also log when roles have been changed.",
+    "install_msg": "Thanks for installing `Audit Logger`. See `[p]help AuditLogger` for details.",
+    "short": "Logs actions done to server and users.",
+    "hidden": false,
+    "disabled": false,
+    "required_cogs": {
+      "admin": "https://github.com/Cog-Creators/Red-DiscordBot"
+    },
+    "requirements": [],
+    "tags": ["Logging", "Audit Logging"],
+    "type": "COG"
+  }
